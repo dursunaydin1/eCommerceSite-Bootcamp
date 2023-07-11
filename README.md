@@ -72,4 +72,4 @@ Register sayfası için de benzer bir işleyiş geçerlidir. Kullanıcılar regi
 - Ürün detaylarına ve il
 
 <a href=""><h1>Canlı Önizleme</h1></a>
-<img src="" alt="">
+<img src="./public/assets/images/screen.gif" alt="">
