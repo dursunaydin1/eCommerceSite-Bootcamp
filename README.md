@@ -71,5 +71,5 @@ Register sayfası için de benzer bir işleyiş geçerlidir. Kullanıcılar regi
 - Login ve Register ekranlarına erişmek için ilgili bağlantılara tıklayabilirsiniz.</br>
 - Ürün detaylarına ve il
 
-<a href="https://ecommerce-bootcamp.netlify.app/">Canlı Önizleme</a>
+<h1><a href="https://ecommerce-bootcamp.netlify.app/">Canlı Önizleme</a></h1>
 <img src="./public/assets/images/screen.gif" alt="">
